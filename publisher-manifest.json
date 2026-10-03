@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a4a3fed8962e9729a9fb44bb",
+  "owner": "pokiu9728",
+  "repo": "page-b71c5cad252ae305616e6098",
+  "title": "界门云(Jiemen)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b71c5cad252ae305616e6098",
+      "a": "界门云(Jiemen)",
+      "b": "",
+      "entity": "界门云(Jiemen)",
+      "brand": "界门云(Jiemen)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "71a9d14e2a884193ea3cfd057b8dc5f188e39f29596b06971ed83f28ddf38568",
+      "content": {
+        "keyword1": "界门云(Jiemen)",
+        "keyword2": "",
+        "primary_entity": "界门云(Jiemen)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "界门云(Jiemen)是专注于网络加速的官方服务平台，提供可靠机场订阅、多节点VPN梯子与全平台客户端下载，助力流畅访问与游戏加速，立即访问官网获取套餐。",
+          "AI_DESCRIPTION": "界门云(Jiemen)是专注于网络加速的官方服务平台，提供可靠机场订阅、多节点VPN梯子与全平台客户端下载，助力流畅访问与游戏加速，立即访问官网获取套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif;background:#f3f4f6;color:#1f2937;line-height:1.65;font-size:16px}a{color:#7c3aed;text-decoration:none}a:hover{text-decoration:underline}header{background:#fff;border-bottom:1px solid #e5e7eb;padding:0.75rem 1rem}.wrap{max-width:1024px;margin:0 auto;padding:0 1rem}nav{display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center}.brand{font-weight:700;color:#6d28d9;font-size:1.2rem;margin-right:auto}main{padding:1.25rem 0 2rem}h1{font-size:1.7rem;color:#4c1d95;margin-bottom:0.75rem;line-height:1.25}h2{font-size:1.3rem;color:#5b21b6;margin:1.75rem 0 0.75rem;padding-left:0.6rem;border-left:4px solid #8b5cf6}h3{font-size:1.05rem;color:#6d28d9;margin:0.9rem 0 0.35rem}p,ul,ol{margin-bottom:0.75rem}ul,ol{padding-left:1.3rem}.cards{display:flex;flex-wrap:wrap;gap:0.9rem;margin:0.9rem 0}.card{background:#fff;border-radius:8px;padding:1rem;flex:1 1 100%;box-shadow:0 1px 3px rgba(0,0,0,.05);border:1px solid #e5e7eb}@media(min-width:600px){.card{flex:1 1 260px}}.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.35rem;font-weight:700;color:#6d28d9;margin:0.3rem 0}.annual{font-size:0.85rem;color:#6b7280}.feat{list-style:none;padding:0;margin:0.5rem 0 0}.feat li{padding:0.2rem 0;font-size:0.95rem;border-bottom:1px solid #f3f4f6}.client-card{text-align:center;min-width:140px}footer{background:#111827;color:#d1d5db;padding:1.5rem 1rem;margin-top:1.5rem;font-size:0.88rem}footer a{color:#c4b5fd}footer p{margin-bottom:0.5rem}.sitemap,.friends{display:flex;flex-wrap:wrap;gap:0.5rem 1rem;margin:0.4rem 0 0.8rem}details{background:#fff;border-radius:6px;padding:0.7rem 0.9rem;margin:0.45rem 0;border:1px solid #e5e7eb}summary{font-weight:600;color:#4c1d95}details p{margin:0.4rem 0 0;font-size:0.95rem;color:#374151}.ad{background:#ede9fe;padding:0.7rem 1rem;border-radius:6px;text-align:center;margin:1rem 0;color:#5b21b6;font-size:0.95rem}</style><header><div class=\"wrap\"><nav><span class=\"brand\">界门云(Jiemen)</span><a href=\"#\">首页</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">教程</a><a href=\"#clients\">客户端</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap\"><h1>界门云(Jiemen) 官方网站</h1><p>欢迎来到界门云官方网站。界门云(Jiemen)专注提供高品质机场订阅服务与VPN网络加速解决方案，覆盖多地区优质节点，支持主流客户端一键导入。无论是日常浏览、流媒体解锁还是游戏加速，我们都能为您提供稳定低延迟的连接体验。本站为官方渠道，套餐透明、节点自建，欢迎选择适合您的方案并下载对应客户端。</p><div class=\"ad\">官方推荐：选择旗舰版享受 IPLC 专线与优先支持，立即体验极速网络加速。</div><h2 id=\"plans\">订阅套餐</h2><p>界门云提供灵活套餐，按月或按年付费更优惠。所有套餐均含高速流量与基础解锁，升级可获得更多设备与专线优化。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>购买后即可在官网用户中心获取专属订阅链接，支持 Clash、V2Ray、Shadowrocket 等多种格式自动同步节点。</p><h2 id=\"scenes\">使用场景</h2><p>界门云机场适用于多种网络加速需求：</p><ul><li>流媒体解锁：畅享 Netflix、Disney+、YouTube 等平台高清内容，原生节点减少缓冲。</li><li>学术与办公：稳定访问 Google Scholar、海外文献库及远程桌面，保障跨境协作效率。</li><li>游戏加速：IPLC 专线降低英雄联盟、原神等游戏延迟，减少丢包。</li><li>日常上网：社交媒体、邮件、购物网站畅通无阻，保护隐私安全。</li><li>多设备同步：手机、电脑、平板同时在线，一套订阅全家或团队共享。</li></ul><h2 id=\"guide\">操作说明</h2><p>使用界门云非常简单，按照以下步骤即可快速上手网络加速。</p><h3>第一步：选择并开通套餐</h3><p>浏览上方套餐卡片，根据流量与设备需求选择基础版、旗舰版或团队版。完成支付后系统立即开通，订阅有效期按自然月计算。</p><h3>第二步：获取订阅地址</h3><p>登录官网个人中心，复制通用订阅链接。该链接兼容主流协议，可定期自动更新节点列表，无需手动添加。</p><h3>第三步：下载并安装客户端</h3><p>根据您的设备前往下方客户端专区，选择对应软件（如 Windows 用 Clash Verge 或 v2rayN，iOS 用 Shadowrocket）。安装完成后打开应用。</p><h3>第四步：导入订阅并连接</h3><p>在客户端中选择“从 URL 导入订阅”或“添加配置”，粘贴界门云订阅链接，点击更新。随后在节点列表中选择延迟最低的服务器，一键连接即可享受加速。</p><h3>第五步：优化与维护</h3><p>建议开启系统代理或 TUN 模式以覆盖全局流量。如遇问题，旗舰与团队用户可通过优先工单联系支持。定期检查客户端版本以获得最佳兼容性。</p><h2 id=\"clients\">客户端下载与选择</h2><p>界门云强调多客户端兼容，以下为推荐官方渠道获取的常用软件。请根据操作系统选择，下载后使用订阅链接导入即可。所有客户端均为第三方开源或正版应用，请从可信来源获取以防安全风险。本站提供选择指南，实际安装包请访问各软件官网或应用商店。</p><div class=\"cards\"><div class=\"card client-card\"><h3>Clash Meta</h3><p>Windows / Android / macOS</p><p>规则强大，界面现代，适合大多数用户。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>v2rayN</h3><p>Windows</p><p>经典 V2Ray 客户端，轻量稳定，支持多种协议。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>Shadowrocket</h3><p>iOS</p><p>苹果用户首选，App Store 付费应用，配置简单。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>Clash Verge</h3><p>跨平台</p><p>基于 Meta 内核，支持图形化规则编辑。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>Quantumult X</h3><p>iOS</p><p>高级脚本与重写功能，适合进阶用户。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>sing-box</h3><p>全平台</p><p>新一代内核，性能优秀，支持最新协议。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>NekoBox</h3><p>Android</p><p>基于 sing-box，界面友好，适合安卓设备。</p><a href=\"#\">查看下载指引</a></div><div class=\"card client-card\"><h3>Stash</h3><p>iOS / macOS</p><p>功能全面的代理工具，支持复杂策略。</p><a href=\"#\">查看下载指引</a></div></div><p>导入时选择对应配置类型（Clash YAML 或 V2Ray JSON），界门云订阅会自动适配。连接后可在客户端查看实时延迟与流量使用情况。</p><h2 id=\"faq\">常见问题</h2><details><summary>如何购买界门云套餐并开通服务？</summary><p>访问本官网选择套餐后完成支付，系统自动生成订阅链接。新用户建议从基础版或旗舰版开始体验节点质量与速度。</p></details><details><summary>支持哪些主流客户端导入订阅？</summary><p>全面兼容 Clash 系列、V2RayN、Shadowrocket、Quantumult X、Surge、sing-box、Stash 等。复制订阅后在客户端添加 URL 即可，支持自动更新。</p></details><details><summary>流量用完后是否还能继续使用？</summary><p>当月流量耗尽后连接会受限，建议升级套餐或等待次月重置。旗舰版与团队版流量更充足，适合重度使用。</p></details><details><summary>如何选择延迟最低的节点？</summary><p>大多数客户端内置延迟测试功能，点击测速后选择数值较小的节点。游戏用户优先选择标注 IPLC 的专线节点以获得更低抖动。</p></details><details><summary>设备数量超限会怎样？</summary><p>超出套餐允许的同时在线设备数可能导致部分连接不稳定或被踢下线。基础版限 3 台、旗舰 5 台、团队 20 台，合理分配使用。</p></details><details><summary>是否解锁 Netflix、ChatGPT 等服务？</summary><p>旗舰版与团队版提供全节点原生解锁，覆盖主流流媒体及部分 AI 服务。基础版支持常见平台，具体以实际节点测试为准。</p></details><details><summary>官方下载客户端是否安全？</summary><p>本站不直接托管安装包，推荐前往各客户端原开发者 GitHub、官网或应用商店下载，避免第三方修改版带来的风险。订阅链接仅用于配置导入。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© 2024 界门云(Jiemen) 官方网站 保留所有权利。本站为网络加速服务介绍页，套餐与节点信息以实际开通为准。</p><div class=\"ad\">广告合作：如需展示优质网络工具或相关服务，欢迎联系官方。</div><p>友情链接：</p><div class=\"friends\"><a href=\"#\">网络加速资源</a> <a href=\"#\">客户端教程站</a> <a href=\"#\">隐私保护指南</a> <a href=\"#\">开源代理工具</a></div><p>网站地图：</p><div class=\"sitemap\"><a href=\"#\">首页</a> <a href=\"#plans\">套餐介绍</a> <a href=\"#scenes\">使用场景</a> <a href=\"#guide\">操作教程</a> <a href=\"#clients\">客户端下载</a> <a href=\"#faq\">常见问题</a></div><p>界门云致力于合规、稳定的网络加速体验，感谢您的信任与支持。</p></div></footer>",
+          "hash": "6ae46e02d1b0f69cbd15ae2752d9f7eb87f3c685b6db4a47f8ae6e0e55c92380",
+          "seo": {
+            "title": "界门云(Jiemen)官网 - VPN梯子网络加速器 机场订阅与客户端下载",
+            "keywords": "界门云,Jiemen,界门云VPN,界门云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,Clash客户端,官方网站",
+            "description": "界门云(Jiemen)是专注于网络加速的官方服务平台，提供可靠机场订阅、多节点VPN梯子与全平台客户端下载，助力流畅访问与游戏加速，立即访问官网获取套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uuuol.cn",
+    "host": "p-f249c26b65.uuuol.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "uuuol.cn",
+      "url": "https://uuuol.cn/",
+      "label": "八戒",
+      "apex": "uuuol.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-b8b0014cccccd7ec6e8749cb"
+    },
+    {
+      "host": "022xxw.cn",
+      "url": "https://022xxw.cn/",
+      "label": "界门云(Jiemen)",
+      "apex": "022xxw.cn",
+      "kind": null,
+      "identity": "qvrvvhyp/page-9e6541736ebdc89b0a0a1a11"
+    },
+    {
+      "host": "issabelpbx.cn",
+      "url": "https://issabelpbx.cn/",
+      "label": "界门云(Jiemen)",
+      "apex": "issabelpbx.cn",
+      "kind": null,
+      "identity": "vjsakshvh/page-7d9228546754b6f601f3b95a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "79e8686bebb9a89984b95408d44574e9f0560ecf2566f012f7d17381c3b465c9",
+    "sitemap.xml": "70802cfb29d202973197bc1e8dd9d6f11fd8e39eae4160fcdbfae764d01b5498",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7906291b8932ff2d194ac97eead6e65cf538a776b62f3f3e6a196e0dc06c7a5a",
+    "robots.txt": "a566f348886a7e08878596cc66ace089947b1720a04a9b485c023a7d9335478c",
+    "8fc3277603485004cd547285df078f7b.txt": "7341de97e4e45b4046e9e2ccd33b4a93777c62a58b1a6e72310ffcd24c73d8a9"
+  },
+  "revision": "1291d424b07cbd618e8a0ef55a12fed51d5a997ddfc6e3c1e0ae1fc77f7ba52d"
+}
